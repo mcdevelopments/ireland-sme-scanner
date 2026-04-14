@@ -38,6 +38,6 @@ jobs:
           else
             COUNT=$(python -c "import json; d=json.load(open('results/latest.json')); print(d['total'])")
             git commit -m "scan: $(date +'%Y-%m-%d') — ${COUNT} Irish SMEs without website"
-            git pull --rebase origin main
-            git push origin main
+            git pull --rebase origin master
+            git push origin master
           fi
