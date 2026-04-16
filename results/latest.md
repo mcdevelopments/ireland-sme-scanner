@@ -1,11 +1,11 @@
 # 🇮🇪 Ireland SME Website Prospects
 
-**Date:** April 15, 2026  
-**Total prospects:** 44  
-**No website at all:** 44  
-**Poor/free website:** 0  
-**Have phone:** 43  
-**Have email:** 3
+**Date:** April 16, 2026  
+**Total prospects:** 85  
+**No website at all:** 83  
+**Poor/free website:** 2  
+**Have phone:** 84  
+**Have email:** 8
 
 > Ranked by how sellable a website is to them. All have been verified as having no website or a poor one, and have a phone or email for outreach.
 > Score = contact quality + website need + category priority.
@@ -16,9 +16,10 @@
 
 | Category | Prospects | Website Need |
 |----------|-----------|--------------|
-| 🔴 Professional | 7 | 9/10 |
-| 🔴 Food & Drink | 6 | 9/10 |
-| 🟠 Health | 31 | 8/10 |
+| 🔴 Hospitality | 5 | 10/10 |
+| 🟠 Leisure | 9 | 8/10 |
+| 🟠 Trades | 28 | 7/10 |
+| 🟡 Automotive | 43 | 6/10 |
 
 ---
 
@@ -26,93 +27,141 @@
 
 | # | Business | Category | Address | Phone | Email | Status | Score |
 |---|----------|----------|---------|-------|-------|--------|-------|
-| 1 | [Palmerstown Veterinary Hospita](https://www.google.com/maps/search/?api=1&query=Palmerstown+Veterinary+Hospital+20%2C+Old+Lucan+Road%2C+Dublin+Ireland) | Health | 20, Old Lucan Road, Dubli | +353 1 6237044 | palmerstownvet@anicare.ie | ❌ No website | 137 |
-| 2 | [Lynch Aunctioneers](https://www.google.com/maps/search/?api=1&query=Lynch+Aunctioneers+2%2C+Eyre+Street%2C+Galway+Ireland) | Professional | 2, Eyre Street, Galway | +353 91 566 157 | olynchco@iol.ie | ❌ No website | 131 |
-| 3 | [Ambrose Moloney's](https://www.google.com/maps/search/?api=1&query=Ambrose+Moloney%27s+19%2C+Harbour+Court%2C+Courtown%2C+Wexford+Ireland) | Food & Drink | 19, Harbour Court, Courto | +353 53 942 5148 | — | ❌ No website | 111 |
-| 4 | [Marino House (Kavanagh's)](https://www.google.com/maps/search/?api=1&query=Marino+House+%28Kavanagh%27s%29+16%2C+Malahide+Road%2C+Dublin+Ireland) | Food & Drink | 16, Malahide Road, Dublin | +353 1 8332786 | — | ❌ No website | 111 |
-| 5 | [Bishop Street Dental Practice](https://www.google.com/maps/search/?api=1&query=Bishop+Street+Dental+Practice+8%2C+Bishop+Street%2C+Cobh+Ireland) | Health | 8, Bishop Street, Cobh | +353 21 4815999 | — | ❌ No website | 107 |
-| 6 | [Ballinteer House](https://www.google.com/maps/search/?api=1&query=Ballinteer+House+Ballinteer+Avenue%2C+Balinteer%2C+Dublin+Ireland) | Food & Drink | Ballinteer Avenue, Balint | — | ballinteerhouse@gmail.com | ❌ No website | 101 |
-| 7 | [Khor Asian Street Food](https://www.google.com/maps/search/?api=1&query=Khor+Asian+Street+Food+Grange+Road+Ireland) | Food & Drink | Grange Road | +353 21 436 3600 | — | ❌ No website | 101 |
-| 8 | [South Dublin Construction Ltd.](https://www.google.com/maps/search/?api=1&query=South+Dublin+Construction+Ltd.+17%2C+Adelaide+Road%2C+Dublin+Ireland) | Professional | 17, Adelaide Road, Dublin | +353 1 4782322 | — | ❌ No website | 101 |
-| 9 | [First Travel Management](https://www.google.com/maps/search/?api=1&query=First+Travel+Management+Ballybrit+Business+Park%2C+Galway+Ireland) | Professional | Ballybrit Business Park,  | +353 (91) 564436 | — | ❌ No website | 101 |
-| 10 | [Redmond's The 19th](https://www.google.com/maps/search/?api=1&query=Redmond%27s+The+19th+Main+Street%2C+Courtown%2C+Wexford+Ireland) | Food & Drink | Main Street, Courtown, We | +353 53 942 5330 | — | ❌ No website | 101 |
-| 11 | [Electronic Retail Security](https://www.google.com/maps/search/?api=1&query=Electronic+Retail+Security+Racecourse+Business+Park%2C+Galway+Ireland) | Professional | Racecourse Business Park, | +353 91 764 107 | — | ❌ No website | 101 |
-| 12 | [JPD Distributors](https://www.google.com/maps/search/?api=1&query=JPD+Distributors+Saint+Agnes+Road+%28Crumlin+Village%29+Ireland) | Professional | Saint Agnes Road (Crumlin | +353-1-4864646 | — | ❌ No website | 101 |
-| 13 | [Galway Accounting Services](https://www.google.com/maps/search/?api=1&query=Galway+Accounting+Services++Ireland) | Professional | Ireland | +353 91842170 | — | ❌ No website | 101 |
-| 14 | [Bernardos](https://www.google.com/maps/search/?api=1&query=Bernardos+Main+Street+Ireland) | Food & Drink | Main Street | +353 1 2820 741 | — | ❌ No website | 101 |
-| 15 | [Gas Networks Ireland](https://www.google.com/maps/search/?api=1&query=Gas+Networks+Ireland+6%2C+Racecourse+Business+Park%2C+Galway+Ireland) | Professional | 6, Racecourse Business Pa | +353 91 480700. | — | ❌ No website | 101 |
-| 16 | [Killaloe Dental Surgery](https://www.google.com/maps/search/?api=1&query=Killaloe+Dental+Surgery+2+Ryagan+House%2C+Killaloe+Ireland) | Health | 2 Ryagan House, Killaloe | +353 61 374744 | — | ❌ No website | 97 |
-| 17 | [Borris Animal Disease Unit](https://www.google.com/maps/search/?api=1&query=Borris+Animal+Disease+Unit++Ireland) | Health | Ireland | +353 503 73124 | — | ❌ No website | 97 |
-| 18 | [Gallagher and Dunne](https://www.google.com/maps/search/?api=1&query=Gallagher+and+Dunne++Ireland) | Health | Ireland | +353 505 23200 | — | ❌ No website | 97 |
-| 19 | [The Doves Dental Surgery](https://www.google.com/maps/search/?api=1&query=The+Doves+Dental+Surgery++Ireland) | Health | Ireland | +353 67 33350 | — | ❌ No website | 97 |
-| 20 | [ani-Pets Veternary Clinic](https://www.google.com/maps/search/?api=1&query=ani-Pets+Veternary+Clinic+Tramore+Ireland) | Health | Tramore | +353-51-393630 | — | ❌ No website | 97 |
+| 1 | [Macroom Leisure Centre](https://www.google.com/maps/search/?api=1&query=Macroom+Leisure+Centre+Main+Street%2C+Macroom+Ireland) | Leisure | Main Street, Macroom | 003532643508 | Macroomcommunityleisurecentre@gmail.com | ⚠️ Poor site | 137 |
+| 2 | [Conneely`s B&B](https://www.google.com/maps/search/?api=1&query=Conneely%60s+B%26B+Kinvara+West%2C+Kinvara+Ireland) | Hospitality | Kinvara West, Kinvara | +35391637206 | sconneely1@gmail.com | ❌ No website | 135 |
+| 3 | [Clonfert Maynooth Equestrian C](https://www.google.com/maps/search/?api=1&query=Clonfert+Maynooth+Equestrian+Centre++Ireland) | Leisure | Ireland | 0872700412 | clonfertmec@gmail.com | ❌ No website | 127 |
+| 4 | [Mr Mobile & PC Repair Centre](https://www.google.com/maps/search/?api=1&query=Mr+Mobile+%26+PC+Repair+Centre+13%2C+Kenyon+Street%2C+Nenagh+Ireland) | Trades | 13, Kenyon Street, Nenagh | +353 67 43545 | mr.mobile@hotmail.com | ❌ No website | 123 |
+| 5 | [J. O'Halloran & Sons Limited J](https://www.google.com/maps/search/?api=1&query=J.+O%27Halloran+%26+Sons+Limited+Joinery+Works++Ireland) | Trades | Ireland | +353 91 755 601 | ohalloranandsons@eircom.net | ❌ No website | 123 |
+| 6 | [Conneally Painting Contractors](https://www.google.com/maps/search/?api=1&query=Conneally+Painting+Contractors++Ireland) | Trades | Ireland | +353 91 779 962 | cpcpainting@eircom.net | ❌ No website | 123 |
+| 7 | [Foley's Motors](https://www.google.com/maps/search/?api=1&query=Foley%27s+Motors+Spring+Garden+Street%2C+Dublin+Ireland) | Automotive | Spring Garden Street, Dub | +353 1 8363063 | foleymotors@gmail.com | ❌ No website | 119 |
+| 8 | [Premier Fitness](https://www.google.com/maps/search/?api=1&query=Premier+Fitness+11%2C+Meakstown+Commercial+Centre%2C+Dublin+Ireland) | Leisure | 11, Meakstown Commercial  | +353 1 8031004 | — | ⚠️ Poor site | 107 |
+| 9 | [Moneyland Farm](https://www.google.com/maps/search/?api=1&query=Moneyland+Farm++Ireland) | Hospitality | Ireland | +353 402 32259 | — | ❌ No website | 105 |
+| 10 | [Ballinagappa House](https://www.google.com/maps/search/?api=1&query=Ballinagappa+House++Ireland) | Hospitality | Ireland | +353 (0)45 892087 | — | ❌ No website | 105 |
+| 11 | [Applewood Bed and Breakfast](https://www.google.com/maps/search/?api=1&query=Applewood+Bed+and+Breakfast+142%2C+Applewood+Heights+Ireland) | Hospitality | 142, Applewood Heights | +353 1 287 5532 | — | ❌ No website | 105 |
+| 12 | [Paddy's Palace Belfast](https://www.google.com/maps/search/?api=1&query=Paddy%27s+Palace+Belfast+68%2C+Fitzwilliam+Street%2C+Belfast+Ireland) | Hospitality | 68, Fitzwilliam Street, B | +44 28 9033 3367 | — | ❌ No website | 105 |
+| 13 | [Thomas Dry Cleaners & Shoe Rep](https://www.google.com/maps/search/?api=1&query=Thomas+Dry+Cleaners+%26+Shoe+Repair+Thomas+Street%2C+Dublin+Ireland) | Trades | Thomas Street, Dublin | +353-85-7850491 | — | ❌ No website | 103 |
+| 14 | [Enniscorthy Stone Works](https://www.google.com/maps/search/?api=1&query=Enniscorthy+Stone+Works+Ross+Road%2C+Enniscorthy+Ireland) | Trades | Ross Road, Enniscorthy | +353 53 9238288 | — | ❌ No website | 103 |
+| 15 | [Eileens Sewing Centre](https://www.google.com/maps/search/?api=1&query=Eileens+Sewing+Centre+92a%2C+Terenure+Road+East+Ireland) | Trades | 92a, Terenure Road East | +353-1-4900089 | — | ❌ No website | 103 |
+| 16 | [Clarinda Park Tennis Courts](https://www.google.com/maps/search/?api=1&query=Clarinda+Park+Tennis+Courts++Ireland) | Leisure | Ireland | +353-1-280-9976 | — | ❌ No website | 97 |
+| 17 | [Coals Gym Galway](https://www.google.com/maps/search/?api=1&query=Coals+Gym+Galway+26%2C+Terryland+Retail+Park+Ireland) | Leisure | 26, Terryland Retail Park | +353 86 1685207 | — | ❌ No website | 97 |
+| 18 | [Carton Equestrian Centre](https://www.google.com/maps/search/?api=1&query=Carton+Equestrian+Centre++Ireland) | Leisure | Ireland | +353 1 6290691 | — | ❌ No website | 97 |
+| 19 | [Yoga Dublin Studios](https://www.google.com/maps/search/?api=1&query=Yoga+Dublin+Studios+Overend+Avenue%2C+Dundrum+Ireland) | Leisure | Overend Avenue, Dundrum | +353 1 2980300 | — | ❌ No website | 97 |
+| 20 | [Carlow/Graiguecullen Swimming ](https://www.google.com/maps/search/?api=1&query=Carlow%2FGraiguecullen+Swimming+Pool++Ireland) | Leisure | Ireland | — | cgswimmingpool@gmail.com | ❌ No website | 97 |
 
 ---
 
 ## 📋 Full List by Category
 
-### 🔴 Professional (7 prospects)
+### 🔴 Hospitality (5 prospects)
 
 | Business | Address | Phone | Email | Facebook | Status | Maps |
 |----------|---------|-------|-------|----------|--------|------|
-| Lynch Aunctioneers | 2, Eyre Street, Galway | +353 91 566 157 | olynchco@iol.ie | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Lynch+Aunctioneers+2%2C+Eyre+Street%2C+Galway+Ireland) |
-| South Dublin Construction Ltd. | 17, Adelaide Road, Dublin | +353 1 4782322 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=South+Dublin+Construction+Ltd.+17%2C+Adelaide+Road%2C+Dublin+Ireland) |
-| First Travel Management | Ballybrit Business Park, Gal | +353 (91) 564436 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=First+Travel+Management+Ballybrit+Business+Park%2C+Galway+Ireland) |
-| Electronic Retail Security | Racecourse Business Park, Ga | +353 91 764 107 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Electronic+Retail+Security+Racecourse+Business+Park%2C+Galway+Ireland) |
-| JPD Distributors | Saint Agnes Road (Crumlin Vi | +353-1-4864646 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=JPD+Distributors+Saint+Agnes+Road+%28Crumlin+Village%29+Ireland) |
-| Galway Accounting Services | Ireland | +353 91842170 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Galway+Accounting+Services++Ireland) |
-| Gas Networks Ireland | 6, Racecourse Business Park, | +353 91 480700. | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Gas+Networks+Ireland+6%2C+Racecourse+Business+Park%2C+Galway+Ireland) |
+| Conneely`s B&B | Kinvara West, Kinvara | +35391637206 | sconneely1@gmail.com | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Conneely%60s+B%26B+Kinvara+West%2C+Kinvara+Ireland) |
+| Moneyland Farm | Ireland | +353 402 32259 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Moneyland+Farm++Ireland) |
+| Ballinagappa House | Ireland | +353 (0)45 892087 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ballinagappa+House++Ireland) |
+| Applewood Bed and Breakfast | 142, Applewood Heights | +353 1 287 5532 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Applewood+Bed+and+Breakfast+142%2C+Applewood+Heights+Ireland) |
+| Paddy's Palace Belfast | 68, Fitzwilliam Street, Belf | +44 28 9033 3367 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Paddy%27s+Palace+Belfast+68%2C+Fitzwilliam+Street%2C+Belfast+Ireland) |
 
 ---
 
-### 🔴 Food & Drink (6 prospects)
+### 🟠 Leisure (9 prospects)
 
 | Business | Address | Phone | Email | Facebook | Status | Maps |
 |----------|---------|-------|-------|----------|--------|------|
-| Ambrose Moloney's | 19, Harbour Court, Courtown, | +353 53 942 5148 | — | [FB](https://www.facebook.com/Ambrose-Moloneys-104758726272579) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ambrose+Moloney%27s+19%2C+Harbour+Court%2C+Courtown%2C+Wexford+Ireland) |
-| Marino House (Kavanagh's) | 16, Malahide Road, Dublin | +353 1 8332786 | — | [FB](https://www.facebook.com/kavanaghsmarino) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Marino+House+%28Kavanagh%27s%29+16%2C+Malahide+Road%2C+Dublin+Ireland) |
-| Ballinteer House | Ballinteer Avenue, Balinteer | — | ballinteerhouse@gmail.com | [FB](https://www.facebook.com/ballinteer) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ballinteer+House+Ballinteer+Avenue%2C+Balinteer%2C+Dublin+Ireland) |
-| Khor Asian Street Food | Grange Road | +353 21 436 3600 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Khor+Asian+Street+Food+Grange+Road+Ireland) |
-| Redmond's The 19th | Main Street, Courtown, Wexfo | +353 53 942 5330 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Redmond%27s+The+19th+Main+Street%2C+Courtown%2C+Wexford+Ireland) |
-| Bernardos | Main Street | +353 1 2820 741 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Bernardos+Main+Street+Ireland) |
+| Macroom Leisure Centre | Main Street, Macroom | 003532643508 | Macroomcommunityleisurecentre@gmail.com | — | ⚠️ Poor site | [Maps](https://www.google.com/maps/search/?api=1&query=Macroom+Leisure+Centre+Main+Street%2C+Macroom+Ireland) |
+| Clonfert Maynooth Equestrian Centre | Ireland | 0872700412 | clonfertmec@gmail.com | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Clonfert+Maynooth+Equestrian+Centre++Ireland) |
+| Premier Fitness | 11, Meakstown Commercial Cen | +353 1 8031004 | — | — | ⚠️ Poor site | [Maps](https://www.google.com/maps/search/?api=1&query=Premier+Fitness+11%2C+Meakstown+Commercial+Centre%2C+Dublin+Ireland) |
+| Clarinda Park Tennis Courts | Ireland | +353-1-280-9976 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Clarinda+Park+Tennis+Courts++Ireland) |
+| Coals Gym Galway | 26, Terryland Retail Park | +353 86 1685207 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Coals+Gym+Galway+26%2C+Terryland+Retail+Park+Ireland) |
+| Carton Equestrian Centre | Ireland | +353 1 6290691 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Carton+Equestrian+Centre++Ireland) |
+| Yoga Dublin Studios | Overend Avenue, Dundrum | +353 1 2980300 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Yoga+Dublin+Studios+Overend+Avenue%2C+Dundrum+Ireland) |
+| Carlow/Graiguecullen Swimming Pool | Ireland | — | cgswimmingpool@gmail.com | [FB](https://www.facebook.com/people/Graiguecullen-Swimming-Pool/100083485801282/) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Carlow%2FGraiguecullen+Swimming+Pool++Ireland) |
+| Douglas Boxing Club | Ireland | +353 86 409 1003 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Douglas+Boxing+Club++Ireland) |
 
 ---
 
-### 🟠 Health (31 prospects)
+### 🟠 Trades (28 prospects)
 
 | Business | Address | Phone | Email | Facebook | Status | Maps |
 |----------|---------|-------|-------|----------|--------|------|
-| Palmerstown Veterinary Hospital | 20, Old Lucan Road, Dublin | +353 1 6237044 | palmerstownvet@anicare.ie | [FB](https://www.facebook.com/anicareveterinarygroup) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Palmerstown+Veterinary+Hospital+20%2C+Old+Lucan+Road%2C+Dublin+Ireland) |
-| Bishop Street Dental Practice | 8, Bishop Street, Cobh | +353 21 4815999 | — | [FB](https://www.facebook.com/Bishop-Street-Dental-Practice-510464269022697/) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Bishop+Street+Dental+Practice+8%2C+Bishop+Street%2C+Cobh+Ireland) |
-| Killaloe Dental Surgery | 2 Ryagan House, Killaloe | +353 61 374744 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Killaloe+Dental+Surgery+2+Ryagan+House%2C+Killaloe+Ireland) |
-| Borris Animal Disease Unit | Ireland | +353 503 73124 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Borris+Animal+Disease+Unit++Ireland) |
-| Gallagher and Dunne | Ireland | +353 505 23200 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Gallagher+and+Dunne++Ireland) |
-| The Doves Dental Surgery | Ireland | +353 67 33350 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=The+Doves+Dental+Surgery++Ireland) |
-| ani-Pets Veternary Clinic | Tramore | +353-51-393630 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=ani-Pets+Veternary+Clinic+Tramore+Ireland) |
-| Patrick Condron | Ireland | +353 86 8274868 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Patrick+Condron++Ireland) |
-| Dental Surgery - Aidan Power BDS | Clareville, Cork | +353 21 431 7442 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dental+Surgery+-+Aidan+Power+BDS+Clareville%2C+Cork+Ireland) |
-| Ayrfield Dental Surgery | Granges Road, Kilkenny, Kilk | +353 56 775 6222 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ayrfield+Dental+Surgery+Granges+Road%2C+Kilkenny%2C+Kilkenny+Ireland) |
-| Eamonn T Noonan | 17, Ellen Street, Limerick | +353 61 468765 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Eamonn+T+Noonan+17%2C+Ellen+Street%2C+Limerick+Ireland) |
-| Dr. Pat Hartnett | Ireland | +353 21 450 2139 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dr.+Pat+Hartnett++Ireland) |
-| Dr. MV Larkin | 37, North Strand Road, Dubli | +353 1 8746660 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dr.+MV+Larkin+37%2C+North+Strand+Road%2C+Dublin+Ireland) |
-| O'Brien & Noonan Vet Clinic | Ireland | +353 25 31870 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=O%27Brien+%26+Noonan+Vet+Clinic++Ireland) |
-| Crumlin Denture Service | Saint Agnes Road, Dublin | +353 1 4550992 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Crumlin+Denture+Service+Saint+Agnes+Road%2C+Dublin+Ireland) |
-| Declan Meagher B.D.S N.U.I | 6, Maretimo Gardens West, Bl | +353-1-288-2308 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Declan+Meagher+B.D.S+N.U.I+6%2C+Maretimo+Gardens+West%2C+Blackrock+Ireland) |
-| Dr. Hugh O'Neill | 119, South Circular Road, Du | +353 1 4543059. | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dr.+Hugh+O%27Neill+119%2C+South+Circular+Road%2C+Dublin+Ireland) |
-| Grange Veterinary Clinic | Ireland | (071)9173596 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Grange+Veterinary+Clinic++Ireland) |
-| Bridget Dineen | 10, Tramway Terrace, Douglas | +353 21 436 3268 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Bridget+Dineen+10%2C+Tramway+Terrace%2C+Douglas+Ireland) |
-| Dental & Denture Express Clinic | Dorset Street Lower | +353-1-8551549 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dental+%26+Denture+Express+Clinic+Dorset+Street+Lower+Ireland) |
-| Ratoath Dental & Implant Centre | Well Road, Ratoath | +353 (0)1 825 6983 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ratoath+Dental+%26+Implant+Centre+Well+Road%2C+Ratoath+Ireland) |
-| Marian Kelly | Rathmines Road Lower | +353-1-4977533 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Marian+Kelly+Rathmines+Road+Lower+Ireland) |
-| Ennis Veterinary Clinic | Ireland | +353 65 67 97 444 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ennis+Veterinary+Clinic++Ireland) |
-| Dr Ciaran Casey | 4, Terenure Road North | +353-1-4929244 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dr+Ciaran+Casey+4%2C+Terenure+Road+North+Ireland) |
-| Market Quay Dental Surgery | Market Quay, Kinsale | +353 21 4774 133 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Market+Quay+Dental+Surgery+Market+Quay%2C+Kinsale+Ireland) |
-| Newry Veterinary Centre | 39A, Patrick Street, Newry | +44 28 30262266 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Newry+Veterinary+Centre+39A%2C+Patrick+Street%2C+Newry+Ireland) |
-| Oscar Dermody | Ireland | +353 21 496 1776 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Oscar+Dermody++Ireland) |
-| McLaughlin’s Agriculture Veterinary | 7, Bridge Street, Bandon | +353 23 884 1842 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=McLaughlin%E2%80%99s+Agriculture+Veterinary+7%2C+Bridge+Street%2C+Bandon+Ireland) |
-| A.S.A.P Dental Laboratory | 14, Midleton Street | 00353214816776 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=A.S.A.P+Dental+Laboratory+14%2C+Midleton+Street+Ireland) |
-| Dr. Miriam Kenny | 79, Morehampton Road, Dublin | +353-1-6683620 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dr.+Miriam+Kenny+79%2C+Morehampton+Road%2C+Dublin+Ireland) |
-| Ulick Cronin | 5, Tramway Terrace, Douglas | +353 21 436 3587 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ulick+Cronin+5%2C+Tramway+Terrace%2C+Douglas+Ireland) |
+| Mr Mobile & PC Repair Centre | 13, Kenyon Street, Nenagh | +353 67 43545 | mr.mobile@hotmail.com | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Mr+Mobile+%26+PC+Repair+Centre+13%2C+Kenyon+Street%2C+Nenagh+Ireland) |
+| J. O'Halloran & Sons Limited Joiner | Ireland | +353 91 755 601 | ohalloranandsons@eircom.net | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=J.+O%27Halloran+%26+Sons+Limited+Joinery+Works++Ireland) |
+| Conneally Painting Contractors | Ireland | +353 91 779 962 | cpcpainting@eircom.net | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Conneally+Painting+Contractors++Ireland) |
+| Thomas Dry Cleaners & Shoe Repair | Thomas Street, Dublin | +353-85-7850491 | — | [FB](https://www.facebook.com/158683370960274) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Thomas+Dry+Cleaners+%26+Shoe+Repair+Thomas+Street%2C+Dublin+Ireland) |
+| Enniscorthy Stone Works | Ross Road, Enniscorthy | +353 53 9238288 | — | [FB](https://www.facebook.com/100054562474944/) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Enniscorthy+Stone+Works+Ross+Road%2C+Enniscorthy+Ireland) |
+| Eileens Sewing Centre | 92a, Terenure Road East | +353-1-4900089 | — | [FB](https://www.facebook.com/eileendressmaker/) | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Eileens+Sewing+Centre+92a%2C+Terenure+Road+East+Ireland) |
+| Spectrum Tooling | Ireland | +353-91-771542 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Spectrum+Tooling++Ireland) |
+| Leahy Engineering | Ireland | +353 91 771 566 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Leahy+Engineering++Ireland) |
+| Rathmines Glass and Design | Rathmines Avenue, Dublin | +353 1 497 3988 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Rathmines+Glass+and+Design+Rathmines+Avenue%2C+Dublin+Ireland) |
+| John Maher Glass Design | 26, Summerhill, Nenagh | 087-6672285 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=John+Maher+Glass+Design+26%2C+Summerhill%2C+Nenagh+Ireland) |
+| Hancu Electronics Repair | Ireland | +353 085 1074906 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Hancu+Electronics+Repair++Ireland) |
+| McNamara Stainless | Ireland | +353 87 827 5808 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=McNamara+Stainless++Ireland) |
+| Thimbles, Ladies & Gents Alteration | 15, Rathgar Road, Dublin | +353 1 497 1775 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Thimbles%2C+Ladies+%26+Gents+Alterations+15%2C+Rathgar+Road%2C+Dublin+Ireland) |
+| Tim Kelly Engineering | 9f, Racecourse Business Park | +353-91-762603 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Tim+Kelly+Engineering+9f%2C+Racecourse+Business+Park%2C+Galway+Ireland) |
+| Sunshine Windows & Doors Limited | Ireland | +353-91-794273 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Sunshine+Windows+%26+Doors+Limited++Ireland) |
+| Capital Glass Co. Ltd. | Clanbrassil Street Lower, Du | +353 1 4532631 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Capital+Glass+Co.+Ltd.+Clanbrassil+Street+Lower%2C+Dublin+Ireland) |
+| Traditional Woodturners (Galway) Li | Ireland | +353 (91) 755682 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Traditional+Woodturners+%28Galway%29+Limited++Ireland) |
+| Walsh Paving Centre | Ireland | +353 91 753 790 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Walsh+Paving+Centre++Ireland) |
+| The Joinery Works | Kimmage Road Lower, Dublin | +353 87 918 4299 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=The+Joinery+Works+Kimmage+Road+Lower%2C+Dublin+Ireland) |
+| APL Stained Glass & Glazing | Bangor Drive, Dublin | +353 1 454 9125 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=APL+Stained+Glass+%26+Glazing+Bangor+Drive%2C+Dublin+Ireland) |
+| McDonald Monuments | Saint Agnes Road (Crumlin Vi | +353-1-____4061 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=McDonald+Monuments+Saint+Agnes+Road+%28Crumlin+Village%29+Ireland) |
+| R Kelly Monumental Works | Ireland | +35361318822 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=R+Kelly+Monumental+Works++Ireland) |
+| Classic Joinery Ltd. | Friar's Walk, Cork | +353 87 2418619 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Classic+Joinery+Ltd.+Friar%27s+Walk%2C+Cork+Ireland) |
+| Tom McCarthy's Memorials | Pouladuff Road, Cork | +353 21 4311279 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Tom+McCarthy%27s+Memorials+Pouladuff+Road%2C+Cork+Ireland) |
+| Carysfort Glass & Glazing Limited | Ireland | +353-1-288-9934 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Carysfort+Glass+%26+Glazing+Limited++Ireland) |
+| Crilly Shoe Repairs | Rock Hill | +353-1-283-2542 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Crilly+Shoe+Repairs+Rock+Hill+Ireland) |
+| OCD Metal Fabrications | Ireland | +353-1-280-6199 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=OCD+Metal+Fabrications++Ireland) |
+| ED Shoe Repairs | 108, George's Street Lower,  | +353-85-714-3462 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=ED+Shoe+Repairs+108%2C+George%27s+Street+Lower%2C+D%C3%BAn+Laoghaire+Ireland) |
+
+---
+
+### 🟡 Automotive (43 prospects)
+
+| Business | Address | Phone | Email | Facebook | Status | Maps |
+|----------|---------|-------|-------|----------|--------|------|
+| Foley's Motors | Spring Garden Street, Dublin | +353 1 8363063 | foleymotors@gmail.com | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Foley%27s+Motors+Spring+Garden+Street%2C+Dublin+Ireland) |
+| O'Shea's Garage | Ireland | +353-51-386050 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=O%27Shea%27s+Garage++Ireland) |
+| Michael O'Connor Motor Factors | Glanmire Business Park, Glan | +353 21 482 2148 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Michael+O%27Connor+Motor+Factors+Glanmire+Business+Park%2C+Glanmire+Ireland) |
+| Seville Motors | Seville Terrace, Dublin | +353 1 8744400 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Seville+Motors+Seville+Terrace%2C+Dublin+Ireland) |
+| W. M. Canty & Son | Ireland | 0214271285 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=W.+M.+Canty+%26+Son++Ireland) |
+| Airside Pitstop | Swords Road | +353 1 813 8885 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Airside+Pitstop+Swords+Road+Ireland) |
+| United Tyre Company | Ireland | +353 1 298 0710 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=United+Tyre+Company++Ireland) |
+| Quick Fit - Galway | Galway | +353 91 756 241 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Quick+Fit+-+Galway+Galway+Ireland) |
+| Alec Lowry Motor Body Repairs | Ireland | +353 91773732 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Alec+Lowry+Motor+Body+Repairs++Ireland) |
+| Y2K Motorcycles | Ireland | +353 91 758 626 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Y2K+Motorcycles++Ireland) |
+| Kevin Ryan Windscreens | Ireland | +353 91773643 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Kevin+Ryan+Windscreens++Ireland) |
+| Cleary Car Sales & Repairs | Ireland | +353 65 671 3030 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Cleary+Car+Sales+%26+Repairs++Ireland) |
+| Western Windscreens | Ireland | +353 91766766 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Western+Windscreens++Ireland) |
+| Galway Garden Machinery & Motorcycl | Ireland | +353 91 759 789 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Galway+Garden+Machinery+%26+Motorcycles+Ltd++Ireland) |
+| Crumlin Auto's | Saint Agnes Road, Dublin | +353-87-2623268 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Crumlin+Auto%27s+Saint+Agnes+Road%2C+Dublin+Ireland) |
+| Tora Garage | 11, Westside Business Centre | +353 91 529826 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Tora+Garage+11%2C+Westside+Business+Centre+Ireland) |
+| Kimmage Tyre Centre | Sundrive Road | +353-1-4921033 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Kimmage+Tyre+Centre+Sundrive+Road+Ireland) |
+| Magnum Tyre Centre | Drimnagh Road | +353 1 4551131 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Magnum+Tyre+Centre+Drimnagh+Road+Ireland) |
+| Sundrive Motor Factors | 118, Sundrive Road, Dublin | +353 1 4927896 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Sundrive+Motor+Factors+118%2C+Sundrive+Road%2C+Dublin+Ireland) |
+| McBride Car Parts | Kilkeasy, Hugginstown | +353 56 7768684 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=McBride+Car+Parts+Kilkeasy%2C+Hugginstown+Ireland) |
+| Parc Motors | Jamestown Road, Dublin | +353 1 8362777 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Parc+Motors+Jamestown+Road%2C+Dublin+Ireland) |
+| Cassidy Renauto | 97, Dorset Street Upper, Dub | +353-1-8303188 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Cassidy+Renauto+97%2C+Dorset+Street+Upper%2C+Dublin+Ireland) |
+| Cassidy Renauto | 95, Dorset Street Upper, Dub | +353 1 8303188 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Cassidy+Renauto+95%2C+Dorset+Street+Upper%2C+Dublin+Ireland) |
+| Ballybrit Exhaust & Tyre Centre | Oldenway Business Park, Galw | +353-91-760760 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Ballybrit+Exhaust+%26+Tyre+Centre+Oldenway+Business+Park%2C+Galway+Ireland) |
+| C&K Motors Ltd. | Orwell Road, Dublin | +353 1 4966590 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=C%26K+Motors+Ltd.+Orwell+Road%2C+Dublin+Ireland) |
+| Fitzpatrick Autos | 9, Kenilworth Lane East, Dub | +353 1 4963690 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Fitzpatrick+Autos+9%2C+Kenilworth+Lane+East%2C+Dublin+Ireland) |
+| Talbot Motors Recovery | Gardiner Lane, Dublin | +353 1 8363989 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Talbot+Motors+Recovery+Gardiner+Lane%2C+Dublin+Ireland) |
+| Barry Ford Motors | Saint Agnes Road (Crumlin Vi | +353-1-4562688 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Barry+Ford+Motors+Saint+Agnes+Road+%28Crumlin+Village%29+Ireland) |
+| Dublin Diesel Repairs | North Strand Road, Dublin | +353 1 559 4000 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dublin+Diesel+Repairs+North+Strand+Road%2C+Dublin+Ireland) |
+| Liffey Motor Services | Robert Street, Dublin | +353 1 855 4295 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Liffey+Motor+Services+Robert+Street%2C+Dublin+Ireland) |
+| M&A Motorcycles | North Strand Road, Dublin | +353 1 8537731 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=M%26A+Motorcycles+North+Strand+Road%2C+Dublin+Ireland) |
+| Dudley Costello Crash Repairs Ltd. | 11, Strandville Avenue, Dubl | +353 86 3381003 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Dudley+Costello+Crash+Repairs+Ltd.+11%2C+Strandville+Avenue%2C+Dublin+Ireland) |
+| Stephen Byrne Motors | Longwood Avenue, Dublin | +353 1 4537719 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Stephen+Byrne+Motors+Longwood+Avenue%2C+Dublin+Ireland) |
+| Glencairn Motors | Ireland | +353 87 3447778 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Glencairn+Motors++Ireland) |
+| NCW Motor Factors | Ireland | +353-69-62799 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=NCW+Motor+Factors++Ireland) |
+| Mulranny Motors | Ireland | 098-36127 or 087-2587840 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Mulranny+Motors++Ireland) |
+| O'Learys Auto Services | Cork | +353 21 477 5590 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=O%27Learys+Auto+Services+Cork+Ireland) |
+| Donnelly's Tyre & Battery Service | Ireland | +353-1-288-1948 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Donnelly%27s+Tyre+%26+Battery+Service++Ireland) |
+| George Brennan | Saint Mary's Road, Dublin | +353 1 4552731 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=George+Brennan+Saint+Mary%27s+Road%2C+Dublin+Ireland) |
+| Crumlin Village Motorcycles | Saint Agnes Road (Crumlin Vi | +353-86-1803948 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Crumlin+Village+Motorcycles+Saint+Agnes+Road+%28Crumlin+Village%29+Ireland) |
+| Parfit Ltd | Swords Road, Cloghran | +353 1 8407880 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Parfit+Ltd+Swords+Road%2C+Cloghran+Ireland) |
+| NMS | Ireland | +353 857322576 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=NMS++Ireland) |
+| Kelly's Garage | Pouladuff Road | +353-21-4840711 | — | — | ❌ No site | [Maps](https://www.google.com/maps/search/?api=1&query=Kelly%27s+Garage+Pouladuff+Road+Ireland) |
 
 ---
 
