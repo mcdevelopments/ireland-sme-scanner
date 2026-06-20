@@ -1,6 +1,6 @@
 # 🇮🇪 Ireland SME Website Prospects
 
-**Date:** June 19, 2026  
+**Date:** June 20, 2026  
 **Total prospects:** 0  
 **No website at all:** 0  
 **Poor/free website:** 0  
